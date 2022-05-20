@@ -18,3 +18,10 @@
   - リダイレクトを使ってコマンドを作成\
   ![image](https://user-images.githubusercontent.com/1501327/169435957-e7e97daf-ca06-4f8b-b545-9cbfbce7b1a6.png)
 
+- ### 作成した Excel から CSV を二種類作成
+  - shift_jis の csv
+    - sjis.csv
+  - UTF-8 with BOM の csv
+    - utf8.csv
+  - 上記 BOM を外した UTF-8 のファイルを作成( VSCode の右下タスクバーでキャラクタセットをクリックして、指定したキャラクタセットで保存 )
+    - utf8-normal.csv
