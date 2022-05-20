@@ -15,6 +15,6 @@
   ![image](https://user-images.githubusercontent.com/1501327/169435062-5fb79243-84e0-4c3d-9ffe-3279686e174a.png)
 
 - ### Excel で多くの空のファイルを一気に作成
-  - リダイレクトを使ってコマンドを作成
+  - リダイレクトを使ってコマンドを作成\
   ![image](https://user-images.githubusercontent.com/1501327/169435957-e7e97daf-ca06-4f8b-b545-9cbfbce7b1a6.png)
 
