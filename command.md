@@ -26,6 +26,6 @@
   - 上記 BOM を外した UTF-8 のファイルを作成( VSCode の右下タスクバーでキャラクタセットをクリックして、指定したキャラクタセットで保存 )
     - utf8-normal.csv
 
-- ### BOM 等のバイトレベルの違いを確認する拡張\
+- ### BOM 等のバイトレベルの違いを確認する拡張( ms-vscode.hexeditor )
 ![image](https://user-images.githubusercontent.com/1501327/169437554-84dddcc3-567e-498a-bc16-1b1c22f891c7.png)
  
