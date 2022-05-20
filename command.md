@@ -28,4 +28,6 @@
 
 - ### BOM 等のバイトレベルの違いを確認する拡張( ms-vscode.hexeditor )
 ![image](https://user-images.githubusercontent.com/1501327/169437554-84dddcc3-567e-498a-bc16-1b1c22f891c7.png)
- 
+  - tao-cumplido.hex-viewer 
+  ![image](https://user-images.githubusercontent.com/1501327/169439679-8cffa8cd-4c77-4968-8d00-0a7464092e46.png)
+
