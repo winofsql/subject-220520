@@ -5,3 +5,19 @@
 ## [スニペット作成ツール](https://migi.me/vsc_snippet/)
 
 ![image](https://user-images.githubusercontent.com/1501327/169430069-d79258d8-5f98-4d5d-8e10-5aa2f34483aa.png)
+```json
+{
+
+    "r202-file-get": {
+        "scope": "php",
+        "prefix": "r202-file-get",
+        "body": [
+            "\\$homepage = file_get_contents('https://migi.me/vsc_snippet/');",
+            "echo \\$homepage;",
+        ],
+        "description": ""
+    },
+
+
+}
+```
