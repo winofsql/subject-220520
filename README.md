@@ -24,3 +24,6 @@
 
 }
 ```
+
+★ グローバルな置き場所
+### C:\Users\lightbox\AppData\Roaming\Code\User\snippets
