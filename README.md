@@ -27,3 +27,6 @@
 
 ★ グローバルな置き場所
 ### C:\Users\lightbox\AppData\Roaming\Code\User\snippets
+
+ファイル名は自由ですが、拡張子は以下のように
+### r202-php.code-snippets
