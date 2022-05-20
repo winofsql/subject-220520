@@ -1,0 +1,4 @@
+- ### コマンドプロンプトの起動
+  - cmd.exe
+    - C:\Windows\System32\cmd.exe
+    - C:\Windows\System32 にはパスが通っているので cmd で実行可能
