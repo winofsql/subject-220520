@@ -42,7 +42,7 @@
       "id": "",
       "name": "【重要なシステム情報】",
       "type": "group",
-      "role": "fileOrganizer",
+    　"role": "fileOrganizer",
       "kind": "drive#permission",
       "withLink": false,
       "selfLink": "",
