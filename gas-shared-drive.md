@@ -14,7 +14,7 @@
   "kind": "drive#driveList",
   "items": [
     {
-      <b>"id": "0ANJvQi0TrWp5X123456",</b>
+      "id": "0ANJvQi0TrWp5X123456",
       "name": "重要な情報",
       "kind": "drive#drive"
     },
@@ -31,7 +31,7 @@
   ]
 }
 ```
-✅ ユニーク情報は空文字にしています
+<b>✅ ユニーク情報は空文字にしています</b>
 ```json
 {
   "kind": "drive#permissionList",
