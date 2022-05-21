@@ -109,7 +109,7 @@ function adminListAllTeamDrives() {
 
       for (var i = 0; i < teamDrives.items.length; i++) {
 
-        **var teamDrive = teamDrives.items[i];**
+        var teamDrive = teamDrives.items[i];
         //ドライブ名の一覧情報を転記
         activeSheet.getRange(i + 2, 1).setValue(teamDrive.name)
 
