@@ -8,7 +8,7 @@
     - supportsAllDrives を true
     - 🏃 実行
 
-<b>✅ ID は編集してあります</b>
+<b style='color:red'>✅ ID は編集してあります</b>
 ```json
 {
   "kind": "drive#driveList",
