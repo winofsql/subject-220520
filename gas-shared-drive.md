@@ -1,9 +1,3 @@
-<style>
-b {
-  color: red;
-}
-</style>
-
 ## Drive API
 
 - ### [共有ドライブ一覧](https://developers.google.com/drive/api/v2/reference/drives/list)
