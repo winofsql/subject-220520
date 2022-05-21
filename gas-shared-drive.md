@@ -41,7 +41,7 @@
     {
       "id": "",
       "name": "【重要なシステム情報】",
-      "type": "group",
+    　"type": "group",  
     　"role": "fileOrganizer",  
       "kind": "drive#permission",
       "withLink": false,
