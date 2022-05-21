@@ -46,7 +46,7 @@
       "kind": "drive#permission",
       "withLink": false,
       "selfLink": "",
-      \"emailAddress": "",
+      "emailAddress": "",
       "domain": "",
       "etag": "",
       "permissionDetails": [
