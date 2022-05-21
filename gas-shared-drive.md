@@ -11,7 +11,7 @@
 <b>✅ ID は編集してあります</b>
 ```json
 {
-  "kind": "drive#driveList",x
+  "kind": "drive#driveList", 
   "items": [
     {
       "id": "0ANJvQi0TrWp5X123456",
