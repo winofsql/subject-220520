@@ -31,6 +31,44 @@
   ]
 }
 ```
+ユニーク情報は空文字にしています
+```json
+{
+  "kind": "drive#permissionList",
+  "etag": "",
+  "selfLink": "",
+  "items": [
+    {
+      "id": "",
+      "name": "【重要なシステム情報】",
+      "type": "group",
+      "role": "fileOrganizer",
+      "kind": "drive#permission",
+      "withLink": false,
+      "selfLink": "",
+      "emailAddress": "",
+      "domain": "",
+      "etag": "",
+      "permissionDetails": [
+        {
+          "permissionType": "member",
+          "role": "fileOrganizer",
+          "inherited": false
+        }
+      ],
+      "teamDrivePermissionDetails": [
+        {
+          "teamDrivePermissionType": "member",
+          "role": "fileOrganizer",
+          "inherited": false
+        }
+      ],
+      "deleted": false
+    }
+  ]
+}
+```
+
 
 - ### [WEB参考記事](https://qiita.com/ryosuk/items/8fdcd606d94e89e156ed)
 ```javascript
