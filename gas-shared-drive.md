@@ -8,7 +8,9 @@
     - supportsAllDrives を true
     - 🏃 実行
 
+:::note info
 ✅ ID は編集してあります
+:::
 ```json
 {
   "kind": "drive#driveList",
