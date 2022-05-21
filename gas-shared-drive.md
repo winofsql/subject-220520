@@ -161,7 +161,7 @@ function sharedDriveList() {
   }
 }
 
-//. 比較関数
+// 比較関数
 function compare( a, b ){
 
   if ( a.role == b.role ) {
