@@ -169,7 +169,7 @@ function adminListAllTeamDrives() {
 
 ![image](https://user-images.githubusercontent.com/1501327/169460213-0f29158a-3f67-44c5-9407-c2d0a6985de7.png)
 
-```geoJSON
+```geojson
 { "type": "Point",
   "crs": { "type": "name",
     "properties": {
