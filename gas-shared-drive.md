@@ -1,7 +1,12 @@
 ## Drive API
 
 - ### [共有ドライブ一覧](https://developers.google.com/drive/api/v2/reference/drives/list)
+  - ( maxResults に 100 を入力して実行します )
   - [メンバ一覧](https://developers.google.com/drive/api/v2/reference/permissions/list)
+    - fileId に 取得した共有ドライブの ID を入力
+    - maxResults には 100
+    - supportsAllDrives を true
+    - 🏃 実行
 
 ✅ ID は編集してあります
 ```json
